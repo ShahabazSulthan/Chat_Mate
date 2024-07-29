@@ -65,17 +65,14 @@ Contributions are welcome! Please follow these steps:
    ```
 6. **Create a Pull Request**.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries or issues, please contact [your-email@example.com].
+For any inquiries or issues, please contact [shahabazsulthan4@gmail.com].
 
 ---
 
 Thank you for using ChatMate! We hope you enjoy your experience.
 ```
 
-Feel free to customize the details such as the repository URL, email, and any other specific information about your project. This README provides an advanced and professional overview of your ChatMate project.
+
